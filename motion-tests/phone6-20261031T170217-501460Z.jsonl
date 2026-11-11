@@ -1,0 +1,19 @@
+{"time_utc": "2026-10-31T17:02:17.503422+00:00", "event": "phone_single_step", "step": 32, "input_at": 1793466137.487625}
+{"time_utc": "2026-10-31T17:02:18.859357+00:00", "event": "first_goal_is_actuation", "id": 6, "start": 2415, "target": 2447, "step": 32}
+{"time_utc": "2026-10-31T17:02:18.859588+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2447}
+{"time_utc": "2026-10-31T17:02:18.863283+00:00", "event": "write_response", "id": 6, "register": "goal_position", "status": 0}
+{"time_utc": "2026-10-31T17:02:18.875528+00:00", "event": "sample", "position": 2415, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:02:18.967432+00:00", "event": "sample", "position": 2415, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:02:19.055211+00:00", "event": "sample", "position": 2420, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:02:19.146954+00:00", "event": "sample", "position": 2423, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:02:19.234745+00:00", "event": "sample", "position": 2429, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:02:19.323932+00:00", "event": "sample", "position": 2433, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:02:19.415920+00:00", "event": "sample", "position": 2439, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:02:19.508222+00:00", "event": "sample", "position": 2443, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:02:19.600494+00:00", "event": "sample", "position": 2445, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:02:19.688557+00:00", "event": "sample", "position": 2445, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:02:19.778870+00:00", "event": "sample", "position": 2445, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:02:19.805650+00:00", "event": "result", "reached": true, "start": 2415, "target": 2447, "position": 2445}
+{"time_utc": "2026-10-31T17:02:19.805806+00:00", "event": "write_attempt", "id": 6, "register": "torque_enable", "value": 0}
+{"time_utc": "2026-10-31T17:02:19.810648+00:00", "event": "cleanup", "motor6_torque_off_verified": true}
+{"time_utc": "2026-10-31T17:02:20.814402+00:00", "event": "port_closed", "reached": true}

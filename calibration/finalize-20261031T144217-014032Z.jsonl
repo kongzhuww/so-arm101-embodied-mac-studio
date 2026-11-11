@@ -1,0 +1,41 @@
+{"time_utc": "2026-10-31T14:42:17.014259+00:00", "event": "resume_inputs", "candidate": "/Users/kongzhu/so-arm101-act/calibration/recovered-candidate-20261031T143040.json", "backup": "/Users/kongzhu/so-arm101-act/backups/motor-settings-20261031T143229-778682Z.json"}
+{"time_utc": "2026-10-31T14:42:18.250902+00:00", "event": "waiting_resume_save", "writes_armed": false}
+{"time_utc": "2026-10-31T14:42:33.669553+00:00", "event": "save_confirmation_recognized"}
+{"time_utc": "2026-10-31T14:42:33.844444+00:00", "event": "resume_save_authorized"}
+{"time_utc": "2026-10-31T14:42:33.847144+00:00", "event": "write_attempt", "id": 1, "register": "homing_offset", "value": -138}
+{"time_utc": "2026-10-31T14:42:33.850139+00:00", "event": "write_response", "id": 1, "register": "homing_offset", "status": 0}
+{"time_utc": "2026-10-31T14:42:33.852717+00:00", "event": "write_attempt", "id": 1, "register": "min_position_limit", "value": 817}
+{"time_utc": "2026-10-31T14:42:33.857192+00:00", "event": "write_response", "id": 1, "register": "min_position_limit", "status": 0}
+{"time_utc": "2026-10-31T14:42:33.859695+00:00", "event": "write_attempt", "id": 1, "register": "max_position_limit", "value": 3411}
+{"time_utc": "2026-10-31T14:42:33.902672+00:00", "event": "write_response", "id": 1, "register": "max_position_limit", "status": 0}
+{"time_utc": "2026-10-31T14:42:33.905371+00:00", "event": "write_attempt", "id": 2, "register": "homing_offset", "value": 768}
+{"time_utc": "2026-10-31T14:42:33.908040+00:00", "event": "write_response", "id": 2, "register": "homing_offset", "status": 0}
+{"time_utc": "2026-10-31T14:42:33.910519+00:00", "event": "write_attempt", "id": 2, "register": "min_position_limit", "value": 860}
+{"time_utc": "2026-10-31T14:42:33.954199+00:00", "event": "write_response", "id": 2, "register": "min_position_limit", "status": 0}
+{"time_utc": "2026-10-31T14:42:33.956964+00:00", "event": "write_attempt", "id": 2, "register": "max_position_limit", "value": 3207}
+{"time_utc": "2026-10-31T14:42:33.961674+00:00", "event": "write_response", "id": 2, "register": "max_position_limit", "status": 0}
+{"time_utc": "2026-10-31T14:42:33.964286+00:00", "event": "write_attempt", "id": 3, "register": "homing_offset", "value": -304}
+{"time_utc": "2026-10-31T14:42:33.967080+00:00", "event": "write_response", "id": 3, "register": "homing_offset", "status": 0}
+{"time_utc": "2026-10-31T14:42:33.969714+00:00", "event": "write_attempt", "id": 3, "register": "min_position_limit", "value": 874}
+{"time_utc": "2026-10-31T14:42:34.010019+00:00", "event": "write_response", "id": 3, "register": "min_position_limit", "status": 0}
+{"time_utc": "2026-10-31T14:42:34.012943+00:00", "event": "write_attempt", "id": 3, "register": "max_position_limit", "value": 3102}
+{"time_utc": "2026-10-31T14:42:34.017485+00:00", "event": "write_response", "id": 3, "register": "max_position_limit", "status": 0}
+{"time_utc": "2026-10-31T14:42:34.020161+00:00", "event": "write_attempt", "id": 4, "register": "homing_offset", "value": 240}
+{"time_utc": "2026-10-31T14:42:34.022973+00:00", "event": "write_response", "id": 4, "register": "homing_offset", "status": 0}
+{"time_utc": "2026-10-31T14:42:34.025594+00:00", "event": "write_attempt", "id": 4, "register": "min_position_limit", "value": 917}
+{"time_utc": "2026-10-31T14:42:34.067331+00:00", "event": "write_response", "id": 4, "register": "min_position_limit", "status": 0}
+{"time_utc": "2026-10-31T14:42:34.070121+00:00", "event": "write_attempt", "id": 4, "register": "max_position_limit", "value": 3171}
+{"time_utc": "2026-10-31T14:42:34.074257+00:00", "event": "write_response", "id": 4, "register": "max_position_limit", "status": 0}
+{"time_utc": "2026-10-31T14:42:34.076681+00:00", "event": "write_attempt", "id": 5, "register": "homing_offset", "value": 108}
+{"time_utc": "2026-10-31T14:42:34.079343+00:00", "event": "write_response", "id": 5, "register": "homing_offset", "status": 0}
+{"time_utc": "2026-10-31T14:42:34.082046+00:00", "event": "write_attempt", "id": 5, "register": "min_position_limit", "value": 0}
+{"time_utc": "2026-10-31T14:42:34.084758+00:00", "event": "write_response", "id": 5, "register": "min_position_limit", "status": 0}
+{"time_utc": "2026-10-31T14:42:34.087442+00:00", "event": "write_attempt", "id": 5, "register": "max_position_limit", "value": 4095}
+{"time_utc": "2026-10-31T14:42:34.090126+00:00", "event": "write_response", "id": 5, "register": "max_position_limit", "status": 0}
+{"time_utc": "2026-10-31T14:42:34.092533+00:00", "event": "write_attempt", "id": 6, "register": "homing_offset", "value": -288}
+{"time_utc": "2026-10-31T14:42:34.095213+00:00", "event": "write_response", "id": 6, "register": "homing_offset", "status": 0}
+{"time_utc": "2026-10-31T14:42:34.097609+00:00", "event": "write_attempt", "id": 6, "register": "min_position_limit", "value": 2007}
+{"time_utc": "2026-10-31T14:42:34.137919+00:00", "event": "write_response", "id": 6, "register": "min_position_limit", "status": 0}
+{"time_utc": "2026-10-31T14:42:34.140603+00:00", "event": "write_attempt", "id": 6, "register": "max_position_limit", "value": 3438}
+{"time_utc": "2026-10-31T14:42:34.144902+00:00", "event": "write_response", "id": 6, "register": "max_position_limit", "status": 0}
+{"time_utc": "2026-10-31T14:42:34.204563+00:00", "event": "saved", "path": "/Users/kongzhu/so-arm101-act/calibration/so101-follower-20261031T144217-014032Z.json"}

@@ -1,0 +1,687 @@
+{"time_utc": "2026-10-31T18:12:08.875909+00:00", "event": "initial_hold_is_actuation", "id": 1, "target": 2123, "status": 0}
+{"time_utc": "2026-10-31T18:12:08.880877+00:00", "event": "initial_hold_is_actuation", "id": 2, "target": 1771, "status": 0}
+{"time_utc": "2026-10-31T18:12:08.885778+00:00", "event": "initial_hold_is_actuation", "id": 3, "target": 2794, "status": 0}
+{"time_utc": "2026-10-31T18:12:08.890626+00:00", "event": "initial_hold_is_actuation", "id": 4, "target": 2954, "status": 0}
+{"time_utc": "2026-10-31T18:12:08.895337+00:00", "event": "initial_hold_is_actuation", "id": 5, "target": 1131, "status": 0}
+{"time_utc": "2026-10-31T18:12:08.900273+00:00", "event": "initial_hold_is_actuation", "id": 6, "target": 2257, "status": 0}
+{"time_utc": "2026-10-31T18:12:08.971664+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2107}
+{"time_utc": "2026-10-31T18:12:08.974168+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1784}
+{"time_utc": "2026-10-31T18:12:08.976582+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2778}
+{"time_utc": "2026-10-31T18:12:08.978970+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2938}
+{"time_utc": "2026-10-31T18:12:08.981352+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1147}
+{"time_utc": "2026-10-31T18:12:08.983739+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2269}
+{"time_utc": "2026-10-31T18:12:08.986209+00:00", "event": "act_frame", "frame": 1, "positions": [2123, 1771, 2794, 2954, 1131, 2257], "action": [-1.758657455444336, -21.92494010925293, 65.01950073242188, 76.43241882324219, -76.56278991699219, 18.298702239990234], "proposed": [2094, 1784, 2728, 2913, 1177, 2269], "sent": [2107, 1784, 2778, 2938, 1147, 2269]}
+{"time_utc": "2026-10-31T18:12:09.064837+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2107}
+{"time_utc": "2026-10-31T18:12:09.067382+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1784}
+{"time_utc": "2026-10-31T18:12:09.069774+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2778}
+{"time_utc": "2026-10-31T18:12:09.072160+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2938}
+{"time_utc": "2026-10-31T18:12:09.074525+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1147}
+{"time_utc": "2026-10-31T18:12:09.076948+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2269}
+{"time_utc": "2026-10-31T18:12:09.079332+00:00", "event": "act_frame", "frame": 2, "positions": [2123, 1771, 2794, 2954, 1131, 2257], "action": [-1.7764720916748047, -21.947952270507812, 65.05095672607422, 76.38887786865234, -76.55220794677734, 18.30507469177246], "proposed": [2094, 1784, 2728, 2913, 1177, 2269], "sent": [2107, 1784, 2778, 2938, 1147, 2269]}
+{"time_utc": "2026-10-31T18:12:09.170818+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2103}
+{"time_utc": "2026-10-31T18:12:09.173285+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1784}
+{"time_utc": "2026-10-31T18:12:09.175697+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2775}
+{"time_utc": "2026-10-31T18:12:09.178131+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2935}
+{"time_utc": "2026-10-31T18:12:09.180680+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1149}
+{"time_utc": "2026-10-31T18:12:09.183198+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2269}
+{"time_utc": "2026-10-31T18:12:09.185573+00:00", "event": "act_frame", "frame": 3, "positions": [2119, 1774, 2791, 2951, 1133, 2259], "action": [-1.8199348449707031, -21.89554214477539, 65.10121154785156, 76.28927612304688, -76.96939086914062, 18.316303253173828], "proposed": [2093, 1784, 2729, 2912, 1172, 2269], "sent": [2103, 1784, 2775, 2935, 1149, 2269]}
+{"time_utc": "2026-10-31T18:12:09.276750+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2099}
+{"time_utc": "2026-10-31T18:12:09.279224+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1784}
+{"time_utc": "2026-10-31T18:12:09.281674+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2770}
+{"time_utc": "2026-10-31T18:12:09.284047+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2931}
+{"time_utc": "2026-10-31T18:12:09.286391+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1149}
+{"time_utc": "2026-10-31T18:12:09.288847+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2269}
+{"time_utc": "2026-10-31T18:12:09.291455+00:00", "event": "act_frame", "frame": 4, "positions": [2115, 1779, 2786, 2947, 1133, 2264], "action": [-1.8119487762451172, -21.923185348510742, 65.0828628540039, 76.31278228759766, -76.83789825439453, 18.31007957458496], "proposed": [2093, 1784, 2728, 2912, 1173, 2269], "sent": [2099, 1784, 2770, 2931, 1149, 2269]}
+{"time_utc": "2026-10-31T18:12:09.376526+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2094}
+{"time_utc": "2026-10-31T18:12:09.379079+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1785}
+{"time_utc": "2026-10-31T18:12:09.381495+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2765}
+{"time_utc": "2026-10-31T18:12:09.383846+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2926}
+{"time_utc": "2026-10-31T18:12:09.386312+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1150}
+{"time_utc": "2026-10-31T18:12:09.388807+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2269}
+{"time_utc": "2026-10-31T18:12:09.391247+00:00", "event": "act_frame", "frame": 5, "positions": [2110, 1783, 2781, 2942, 1134, 2267], "action": [-1.827981948852539, -21.885053634643555, 65.11908721923828, 76.25543975830078, -76.99075317382812, 18.31949234008789], "proposed": [2093, 1785, 2729, 2911, 1172, 2269], "sent": [2094, 1785, 2765, 2926, 1150, 2269]}
+{"time_utc": "2026-10-31T18:12:09.481427+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2093}
+{"time_utc": "2026-10-31T18:12:09.484083+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1784}
+{"time_utc": "2026-10-31T18:12:09.486588+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2764}
+{"time_utc": "2026-10-31T18:12:09.488973+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2921}
+{"time_utc": "2026-10-31T18:12:09.491312+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1158}
+{"time_utc": "2026-10-31T18:12:09.493752+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2269}
+{"time_utc": "2026-10-31T18:12:09.496210+00:00", "event": "act_frame", "frame": 6, "positions": [2105, 1783, 2780, 2937, 1142, 2267], "action": [-1.8121109008789062, -21.93305206298828, 65.08916473388672, 76.31594848632812, -76.79823303222656, 18.311643600463867], "proposed": [2093, 1784, 2728, 2912, 1174, 2269], "sent": [2093, 1784, 2764, 2921, 1158, 2269]}
+{"time_utc": "2026-10-31T18:12:09.583166+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2093}
+{"time_utc": "2026-10-31T18:12:09.585744+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1784}
+{"time_utc": "2026-10-31T18:12:09.588114+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2763}
+{"time_utc": "2026-10-31T18:12:09.590536+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:09.592933+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1162}
+{"time_utc": "2026-10-31T18:12:09.595442+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2269}
+{"time_utc": "2026-10-31T18:12:09.597812+00:00", "event": "act_frame", "frame": 7, "positions": [2099, 1784, 2779, 2932, 1146, 2268], "action": [-1.860483169555664, -21.923372268676758, 65.13492584228516, 76.21761322021484, -77.07897186279297, 18.322933197021484], "proposed": [2093, 1784, 2729, 2911, 1171, 2269], "sent": [2093, 1784, 2763, 2916, 1162, 2269]}
+{"time_utc": "2026-10-31T18:12:09.688698+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2093}
+{"time_utc": "2026-10-31T18:12:09.691263+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1785}
+{"time_utc": "2026-10-31T18:12:09.693741+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2763}
+{"time_utc": "2026-10-31T18:12:09.696106+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:09.698521+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1168}
+{"time_utc": "2026-10-31T18:12:09.700923+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2269}
+{"time_utc": "2026-10-31T18:12:09.703355+00:00", "event": "act_frame", "frame": 8, "positions": [2095, 1784, 2779, 2932, 1152, 2268], "action": [-1.8770999908447266, -21.8898983001709, 65.14920043945312, 76.1812744140625, -77.21715545654297, 18.329219818115234], "proposed": [2093, 1785, 2729, 2911, 1169, 2269], "sent": [2093, 1785, 2763, 2916, 1168, 2269]}
+{"time_utc": "2026-10-31T18:12:09.794462+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2093}
+{"time_utc": "2026-10-31T18:12:09.797046+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1785}
+{"time_utc": "2026-10-31T18:12:09.799639+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2762}
+{"time_utc": "2026-10-31T18:12:09.802261+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:09.804879+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1169}
+{"time_utc": "2026-10-31T18:12:09.807396+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2269}
+{"time_utc": "2026-10-31T18:12:09.809838+00:00", "event": "act_frame", "frame": 9, "positions": [2095, 1784, 2778, 2932, 1157, 2268], "action": [-1.8801498413085938, -21.875289916992188, 65.15208435058594, 76.17730712890625, -77.25845336914062, 18.327821731567383], "proposed": [2093, 1785, 2729, 2911, 1169, 2269], "sent": [2093, 1785, 2762, 2916, 1169, 2269]}
+{"time_utc": "2026-10-31T18:12:09.899807+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2093}
+{"time_utc": "2026-10-31T18:12:09.902264+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1784}
+{"time_utc": "2026-10-31T18:12:09.904650+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2762}
+{"time_utc": "2026-10-31T18:12:09.907070+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:09.909473+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1170}
+{"time_utc": "2026-10-31T18:12:09.911803+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2269}
+{"time_utc": "2026-10-31T18:12:09.914260+00:00", "event": "act_frame", "frame": 10, "positions": [2095, 1784, 2778, 2932, 1161, 2268], "action": [-1.8728446960449219, -21.89887809753418, 65.14518737792969, 76.17765808105469, -77.1640853881836, 18.329904556274414], "proposed": [2093, 1784, 2729, 2911, 1170, 2269], "sent": [2093, 1784, 2762, 2916, 1170, 2269]}
+{"time_utc": "2026-10-31T18:12:10.013757+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2079}
+{"time_utc": "2026-10-31T18:12:10.016293+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1792}
+{"time_utc": "2026-10-31T18:12:10.018680+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2762}
+{"time_utc": "2026-10-31T18:12:10.021040+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:10.023441+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:10.026041+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:10.028606+00:00", "event": "act_frame", "frame": 11, "positions": [2095, 1784, 2778, 2932, 1166, 2268], "action": [-3.6873245239257812, -21.199399948120117, 64.79438781738281, 74.87619018554688, -71.27098083496094, 18.51821517944336], "proposed": [2072, 1792, 2725, 2896, 1237, 2272], "sent": [2079, 1792, 2762, 2916, 1182, 2272]}
+{"time_utc": "2026-10-31T18:12:10.104220+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2079}
+{"time_utc": "2026-10-31T18:12:10.106771+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1792}
+{"time_utc": "2026-10-31T18:12:10.109276+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2762}
+{"time_utc": "2026-10-31T18:12:10.111674+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:10.114034+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:10.116393+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:10.118889+00:00", "event": "act_frame", "frame": 12, "positions": [2095, 1784, 2778, 2932, 1166, 2268], "action": [-3.703831672668457, -21.225963592529297, 64.80818176269531, 74.84744262695312, -71.22606658935547, 18.520803451538086], "proposed": [2072, 1792, 2725, 2895, 1237, 2272], "sent": [2079, 1792, 2762, 2916, 1182, 2272]}
+{"time_utc": "2026-10-31T18:12:10.209371+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2076}
+{"time_utc": "2026-10-31T18:12:10.211925+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1792}
+{"time_utc": "2026-10-31T18:12:10.214368+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2760}
+{"time_utc": "2026-10-31T18:12:10.216770+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:10.219269+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:10.221718+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:10.224086+00:00", "event": "act_frame", "frame": 13, "positions": [2092, 1788, 2776, 2932, 1166, 2270], "action": [-3.7429256439208984, -21.187593460083008, 64.83255004882812, 74.77637481689453, -71.48796844482422, 18.524072647094727], "proposed": [2071, 1792, 2725, 2895, 1234, 2272], "sent": [2076, 1792, 2760, 2916, 1182, 2272]}
+{"time_utc": "2026-10-31T18:12:10.314035+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2072}
+{"time_utc": "2026-10-31T18:12:10.316697+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1792}
+{"time_utc": "2026-10-31T18:12:10.319244+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2758}
+{"time_utc": "2026-10-31T18:12:10.321767+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:10.324329+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:10.326892+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:10.329439+00:00", "event": "act_frame", "frame": 14, "positions": [2086, 1791, 2774, 2932, 1166, 2270], "action": [-3.7354822158813477, -21.207529067993164, 64.82178497314453, 74.78779602050781, -71.41777801513672, 18.520610809326172], "proposed": [2072, 1792, 2725, 2895, 1235, 2272], "sent": [2072, 1792, 2758, 2916, 1182, 2272]}
+{"time_utc": "2026-10-31T18:12:10.414387+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2071}
+{"time_utc": "2026-10-31T18:12:10.416963+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1793}
+{"time_utc": "2026-10-31T18:12:10.419351+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2758}
+{"time_utc": "2026-10-31T18:12:10.421694+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:10.424149+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:10.426762+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:10.429221+00:00", "event": "act_frame", "frame": 15, "positions": [2080, 1791, 2774, 2932, 1166, 2270], "action": [-3.7465734481811523, -21.181943893432617, 64.84124755859375, 74.7540512084961, -71.47557067871094, 18.52358627319336], "proposed": [2071, 1793, 2726, 2894, 1234, 2272], "sent": [2071, 1793, 2758, 2916, 1182, 2272]}
+{"time_utc": "2026-10-31T18:12:10.516094+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2072}
+{"time_utc": "2026-10-31T18:12:10.518715+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1792}
+{"time_utc": "2026-10-31T18:12:10.521238+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2758}
+{"time_utc": "2026-10-31T18:12:10.523879+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:10.526301+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:10.528802+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:10.531302+00:00", "event": "act_frame", "frame": 16, "positions": [2075, 1791, 2774, 2932, 1166, 2270], "action": [-3.730841636657715, -21.21929168701172, 64.82718658447266, 74.7981185913086, -71.37010192871094, 18.521747589111328], "proposed": [2072, 1792, 2725, 2895, 1236, 2272], "sent": [2072, 1792, 2758, 2916, 1182, 2272]}
+{"time_utc": "2026-10-31T18:12:10.617476+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2071}
+{"time_utc": "2026-10-31T18:12:10.620065+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1792}
+{"time_utc": "2026-10-31T18:12:10.622559+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2758}
+{"time_utc": "2026-10-31T18:12:10.624944+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:10.627337+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:10.629657+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:10.632155+00:00", "event": "act_frame", "frame": 17, "positions": [2075, 1792, 2774, 2932, 1166, 2270], "action": [-3.7787961959838867, -21.220457077026367, 64.84187316894531, 74.72695922851562, -71.55601501464844, 18.52389907836914], "proposed": [2071, 1792, 2726, 2894, 1234, 2272], "sent": [2071, 1792, 2758, 2916, 1182, 2272]}
+{"time_utc": "2026-10-31T18:12:10.723576+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2071}
+{"time_utc": "2026-10-31T18:12:10.726092+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1792}
+{"time_utc": "2026-10-31T18:12:10.728556+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2758}
+{"time_utc": "2026-10-31T18:12:10.731085+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:10.733596+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:10.736143+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:10.738562+00:00", "event": "act_frame", "frame": 18, "positions": [2075, 1792, 2774, 2932, 1166, 2270], "action": [-3.7885618209838867, -21.193737030029297, 64.84695434570312, 74.70480346679688, -71.63983917236328, 18.525876998901367], "proposed": [2071, 1792, 2726, 2894, 1233, 2272], "sent": [2071, 1792, 2758, 2916, 1182, 2272]}
+{"time_utc": "2026-10-31T18:12:10.826452+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2071}
+{"time_utc": "2026-10-31T18:12:10.829000+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1793}
+{"time_utc": "2026-10-31T18:12:10.831348+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2758}
+{"time_utc": "2026-10-31T18:12:10.833772+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:10.836370+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:10.838924+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:10.841492+00:00", "event": "act_frame", "frame": 19, "positions": [2075, 1792, 2774, 2932, 1166, 2270], "action": [-3.7905006408691406, -21.182327270507812, 64.8482666015625, 74.70314025878906, -71.65516662597656, 18.523509979248047], "proposed": [2071, 1793, 2726, 2894, 1232, 2272], "sent": [2071, 1793, 2758, 2916, 1182, 2272]}
+{"time_utc": "2026-10-31T18:12:10.931464+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2071}
+{"time_utc": "2026-10-31T18:12:10.934176+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1792}
+{"time_utc": "2026-10-31T18:12:10.936900+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2758}
+{"time_utc": "2026-10-31T18:12:10.939458+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:10.941998+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:10.944581+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:10.947085+00:00", "event": "act_frame", "frame": 20, "positions": [2075, 1792, 2774, 2932, 1166, 2271], "action": [-3.7836856842041016, -21.204126358032227, 64.84075927734375, 74.7032699584961, -71.58030700683594, 18.525508880615234], "proposed": [2071, 1792, 2726, 2894, 1233, 2272], "sent": [2071, 1792, 2758, 2916, 1182, 2272]}
+{"time_utc": "2026-10-31T18:12:11.049014+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2059}
+{"time_utc": "2026-10-31T18:12:11.051740+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:11.054406+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2758}
+{"time_utc": "2026-10-31T18:12:11.056991+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:11.059585+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:11.062112+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:11.064676+00:00", "event": "act_frame", "frame": 21, "positions": [2075, 1792, 2774, 2932, 1166, 2271], "action": [-5.041900634765625, -20.79400062561035, 64.76346588134766, 74.80790710449219, -70.39861297607422, 18.595922470092773], "proposed": [2057, 1797, 2725, 2895, 1247, 2273], "sent": [2059, 1797, 2758, 2916, 1182, 2273]}
+{"time_utc": "2026-10-31T18:12:11.136821+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2059}
+{"time_utc": "2026-10-31T18:12:11.139350+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:11.141739+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2758}
+{"time_utc": "2026-10-31T18:12:11.144097+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:11.146599+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:11.149079+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:11.151462+00:00", "event": "act_frame", "frame": 22, "positions": [2075, 1792, 2774, 2932, 1166, 2271], "action": [-5.056221961975098, -20.82042694091797, 64.77336120605469, 74.78412628173828, -70.34281921386719, 18.597488403320312], "proposed": [2056, 1797, 2725, 2895, 1247, 2273], "sent": [2059, 1797, 2758, 2916, 1182, 2273]}
+{"time_utc": "2026-10-31T18:12:11.240625+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2056}
+{"time_utc": "2026-10-31T18:12:11.243334+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:11.245825+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2758}
+{"time_utc": "2026-10-31T18:12:11.248357+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:11.250800+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:11.253408+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:11.255883+00:00", "event": "act_frame", "frame": 23, "positions": [2070, 1794, 2774, 2932, 1166, 2271], "action": [-5.089504241943359, -20.78447151184082, 64.79168701171875, 74.71887969970703, -70.57010650634766, 18.59807586669922], "proposed": [2056, 1797, 2725, 2894, 1245, 2273], "sent": [2056, 1797, 2758, 2916, 1182, 2273]}
+{"time_utc": "2026-10-31T18:12:11.343300+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2056}
+{"time_utc": "2026-10-31T18:12:11.345775+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:11.348204+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2755}
+{"time_utc": "2026-10-31T18:12:11.350590+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:11.352958+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:11.355393+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:11.357764+00:00", "event": "act_frame", "frame": 24, "positions": [2063, 1797, 2771, 2932, 1166, 2271], "action": [-5.084294319152832, -20.800859451293945, 64.78362274169922, 74.724609375, -70.5190200805664, 18.595535278320312], "proposed": [2056, 1797, 2725, 2894, 1245, 2273], "sent": [2056, 1797, 2755, 2916, 1182, 2273]}
+{"time_utc": "2026-10-31T18:12:11.447676+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2056}
+{"time_utc": "2026-10-31T18:12:11.450335+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:11.452907+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:11.455324+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:11.457692+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1182}
+{"time_utc": "2026-10-31T18:12:11.460055+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:11.462562+00:00", "event": "act_frame", "frame": 25, "positions": [2061, 1797, 2769, 2932, 1166, 2271], "action": [-5.090019226074219, -20.77836036682129, 64.79962158203125, 74.69742584228516, -70.54725646972656, 18.596885681152344], "proposed": [2056, 1797, 2725, 2894, 1245, 2273], "sent": [2056, 1797, 2753, 2916, 1182, 2273]}
+{"time_utc": "2026-10-31T18:12:11.549289+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2056}
+{"time_utc": "2026-10-31T18:12:11.551782+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:11.554189+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:11.556816+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:11.559302+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1186}
+{"time_utc": "2026-10-31T18:12:11.561833+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:11.564193+00:00", "event": "act_frame", "frame": 26, "positions": [2059, 1797, 2769, 2932, 1170, 2271], "action": [-5.077668190002441, -20.81393814086914, 64.7876968383789, 74.73837280273438, -70.4684066772461, 18.59674835205078], "proposed": [2056, 1797, 2725, 2894, 1246, 2273], "sent": [2056, 1797, 2753, 2916, 1186, 2273]}
+{"time_utc": "2026-10-31T18:12:11.653726+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2056}
+{"time_utc": "2026-10-31T18:12:11.656221+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:11.658764+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:11.661318+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:11.663826+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1194}
+{"time_utc": "2026-10-31T18:12:11.666238+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:11.668823+00:00", "event": "act_frame", "frame": 27, "positions": [2059, 1797, 2769, 2932, 1178, 2271], "action": [-5.119050979614258, -20.815092086791992, 64.797607421875, 74.6734848022461, -70.61848449707031, 18.59662628173828], "proposed": [2056, 1797, 2725, 2893, 1244, 2273], "sent": [2056, 1797, 2753, 2916, 1194, 2273]}
+{"time_utc": "2026-10-31T18:12:11.755357+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2056}
+{"time_utc": "2026-10-31T18:12:11.757871+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:11.760268+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:11.762682+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:11.765049+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1198}
+{"time_utc": "2026-10-31T18:12:11.767441+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:11.770083+00:00", "event": "act_frame", "frame": 28, "positions": [2059, 1797, 2769, 2932, 1182, 2271], "action": [-5.124629974365234, -20.790321350097656, 64.80085754394531, 74.65516662597656, -70.68488311767578, 18.59760093688965], "proposed": [2056, 1797, 2725, 2893, 1243, 2273], "sent": [2056, 1797, 2753, 2916, 1198, 2273]}
+{"time_utc": "2026-10-31T18:12:11.859545+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2056}
+{"time_utc": "2026-10-31T18:12:11.862070+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:11.864517+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:11.866884+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:11.869295+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1204}
+{"time_utc": "2026-10-31T18:12:11.871693+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:11.874080+00:00", "event": "act_frame", "frame": 29, "positions": [2059, 1797, 2769, 2932, 1188, 2271], "action": [-5.126035690307617, -20.7795352935791, 64.80192565917969, 74.65499877929688, -70.70032501220703, 18.595060348510742], "proposed": [2056, 1797, 2725, 2893, 1243, 2273], "sent": [2056, 1797, 2753, 2916, 1204, 2273]}
+{"time_utc": "2026-10-31T18:12:11.963977+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2056}
+{"time_utc": "2026-10-31T18:12:11.966548+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:11.969077+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:11.971441+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:11.973805+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1205}
+{"time_utc": "2026-10-31T18:12:11.976253+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:11.978863+00:00", "event": "act_frame", "frame": 30, "positions": [2059, 1797, 2769, 2932, 1189, 2271], "action": [-5.119589805603027, -20.80021858215332, 64.79620361328125, 74.65434265136719, -70.62464904785156, 18.597352981567383], "proposed": [2056, 1797, 2725, 2893, 1244, 2273], "sent": [2056, 1797, 2753, 2916, 1205, 2273]}
+{"time_utc": "2026-10-31T18:12:12.081976+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2044}
+{"time_utc": "2026-10-31T18:12:12.084375+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1799}
+{"time_utc": "2026-10-31T18:12:12.086714+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:12.089221+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:12.091792+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1205}
+{"time_utc": "2026-10-31T18:12:12.094283+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:12.096780+00:00", "event": "act_frame", "frame": 31, "positions": [2059, 1797, 2769, 2932, 1189, 2271], "action": [-6.146123886108398, -20.622507095336914, 64.66731262207031, 74.80055236816406, -67.82290649414062, 18.5638370513916], "proposed": [2044, 1799, 2724, 2895, 1276, 2273], "sent": [2044, 1799, 2753, 2916, 1205, 2273]}
+{"time_utc": "2026-10-31T18:12:12.169615+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2044}
+{"time_utc": "2026-10-31T18:12:12.172232+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1799}
+{"time_utc": "2026-10-31T18:12:12.174646+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:12.177201+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:12.179566+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1205}
+{"time_utc": "2026-10-31T18:12:12.181952+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:12.184385+00:00", "event": "act_frame", "frame": 32, "positions": [2059, 1797, 2769, 2932, 1189, 2271], "action": [-6.158928871154785, -20.64699935913086, 64.67616271972656, 74.77928924560547, -67.75740051269531, 18.56520652770996], "proposed": [2044, 1799, 2724, 2895, 1277, 2273], "sent": [2044, 1799, 2753, 2916, 1205, 2273]}
+{"time_utc": "2026-10-31T18:12:12.271081+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2044}
+{"time_utc": "2026-10-31T18:12:12.273604+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1799}
+{"time_utc": "2026-10-31T18:12:12.275951+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:12.278361+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:12.280751+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:12.283150+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:12.285590+00:00", "event": "act_frame", "frame": 33, "positions": [2052, 1797, 2769, 2932, 1190, 2271], "action": [-6.187880516052246, -20.614543914794922, 64.69583129882812, 74.71692657470703, -67.93067932128906, 18.564611434936523], "proposed": [2044, 1799, 2724, 2894, 1275, 2273], "sent": [2044, 1799, 2753, 2916, 1206, 2273]}
+{"time_utc": "2026-10-31T18:12:12.371227+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2044}
+{"time_utc": "2026-10-31T18:12:12.373793+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1799}
+{"time_utc": "2026-10-31T18:12:12.376347+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:12.378930+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:12.381421+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:12.383782+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:12.386234+00:00", "event": "act_frame", "frame": 34, "positions": [2049, 1797, 2769, 2932, 1190, 2271], "action": [-6.183930397033691, -20.628318786621094, 64.68894958496094, 74.71869659423828, -67.89207458496094, 18.562583923339844], "proposed": [2044, 1799, 2724, 2894, 1275, 2273], "sent": [2044, 1799, 2753, 2916, 1206, 2273]}
+{"time_utc": "2026-10-31T18:12:12.474229+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2044}
+{"time_utc": "2026-10-31T18:12:12.476863+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1799}
+{"time_utc": "2026-10-31T18:12:12.479350+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:12.481822+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:12.484152+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:12.486549+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:12.488995+00:00", "event": "act_frame", "frame": 35, "positions": [2046, 1797, 2769, 2932, 1190, 2271], "action": [-6.186860084533691, -20.60821533203125, 64.70484161376953, 74.69499206542969, -67.89726257324219, 18.563304901123047], "proposed": [2044, 1799, 2724, 2894, 1275, 2273], "sent": [2044, 1799, 2753, 2916, 1206, 2273]}
+{"time_utc": "2026-10-31T18:12:12.574848+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2044}
+{"time_utc": "2026-10-31T18:12:12.577388+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1799}
+{"time_utc": "2026-10-31T18:12:12.579927+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:12.582283+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:12.584714+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:12.587242+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:12.589828+00:00", "event": "act_frame", "frame": 36, "positions": [2046, 1797, 2769, 2932, 1190, 2271], "action": [-6.176286697387695, -20.641536712646484, 64.69154357910156, 74.73491668701172, -67.85154724121094, 18.563941955566406], "proposed": [2044, 1799, 2724, 2894, 1276, 2273], "sent": [2044, 1799, 2753, 2916, 1206, 2273]}
+{"time_utc": "2026-10-31T18:12:12.678162+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2043}
+{"time_utc": "2026-10-31T18:12:12.680781+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1799}
+{"time_utc": "2026-10-31T18:12:12.683323+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:12.685839+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:12.688205+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:12.690637+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:12.693012+00:00", "event": "act_frame", "frame": 37, "positions": [2046, 1797, 2769, 2932, 1190, 2271], "action": [-6.214173316955566, -20.642663955688477, 64.7030029296875, 74.67172241210938, -67.96314239501953, 18.563322067260742], "proposed": [2043, 1799, 2724, 2893, 1274, 2273], "sent": [2043, 1799, 2753, 2916, 1206, 2273]}
+{"time_utc": "2026-10-31T18:12:12.782625+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2043}
+{"time_utc": "2026-10-31T18:12:12.785196+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1799}
+{"time_utc": "2026-10-31T18:12:12.787587+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:12.789905+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:12.792356+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:12.794736+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:12.797136+00:00", "event": "act_frame", "frame": 38, "positions": [2046, 1797, 2769, 2932, 1190, 2271], "action": [-6.217309951782227, -20.61961555480957, 64.70596313476562, 74.65583801269531, -68.01258087158203, 18.563690185546875], "proposed": [2043, 1799, 2724, 2893, 1274, 2273], "sent": [2043, 1799, 2753, 2916, 1206, 2273]}
+{"time_utc": "2026-10-31T18:12:12.885697+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2043}
+{"time_utc": "2026-10-31T18:12:12.888291+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1799}
+{"time_utc": "2026-10-31T18:12:12.890821+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:12.893199+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:12.895547+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:12.897911+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:12.900473+00:00", "event": "act_frame", "frame": 39, "positions": [2046, 1797, 2769, 2932, 1190, 2271], "action": [-6.217953681945801, -20.609405517578125, 64.7076187133789, 74.65664672851562, -68.02310180664062, 18.561220169067383], "proposed": [2043, 1799, 2724, 2893, 1274, 2273], "sent": [2043, 1799, 2753, 2916, 1206, 2273]}
+{"time_utc": "2026-10-31T18:12:12.989443+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2043}
+{"time_utc": "2026-10-31T18:12:12.991953+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1799}
+{"time_utc": "2026-10-31T18:12:12.994340+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:12.996748+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:12.999300+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:13.001873+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2273}
+{"time_utc": "2026-10-31T18:12:13.004443+00:00", "event": "act_frame", "frame": 40, "positions": [2046, 1797, 2769, 2932, 1190, 2271], "action": [-6.21258544921875, -20.62835121154785, 64.70243072509766, 74.65509033203125, -67.95406341552734, 18.563833236694336], "proposed": [2043, 1799, 2724, 2893, 1275, 2273], "sent": [2043, 1799, 2753, 2916, 1206, 2273]}
+{"time_utc": "2026-10-31T18:12:13.105740+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2034}
+{"time_utc": "2026-10-31T18:12:13.108156+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1798}
+{"time_utc": "2026-10-31T18:12:13.110532+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:13.112927+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:13.115318+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:13.117674+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:13.120088+00:00", "event": "act_frame", "frame": 41, "positions": [2046, 1797, 2769, 2932, 1190, 2271], "action": [-7.020750045776367, -20.732046127319336, 64.75810241699219, 74.82575988769531, -67.15655517578125, 18.538145065307617], "proposed": [2034, 1798, 2725, 2895, 1284, 2272], "sent": [2034, 1798, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:13.195661+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2034}
+{"time_utc": "2026-10-31T18:12:13.198403+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:13.201031+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:13.203756+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:13.206298+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:13.208758+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:13.211304+00:00", "event": "act_frame", "frame": 42, "positions": [2046, 1797, 2769, 2932, 1190, 2271], "action": [-7.031964302062988, -20.754547119140625, 64.7664566040039, 74.8078384399414, -67.08158111572266, 18.53948974609375], "proposed": [2034, 1797, 2725, 2895, 1284, 2272], "sent": [2034, 1797, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:13.302022+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2034}
+{"time_utc": "2026-10-31T18:12:13.304611+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1798}
+{"time_utc": "2026-10-31T18:12:13.307178+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:13.309675+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:13.312053+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:13.314454+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:13.316863+00:00", "event": "act_frame", "frame": 43, "positions": [2040, 1797, 2769, 2932, 1190, 2271], "action": [-7.056353569030762, -20.72035789489746, 64.78516387939453, 74.74776458740234, -67.22669982910156, 18.537315368652344], "proposed": [2034, 1798, 2725, 2894, 1283, 2272], "sent": [2034, 1798, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:13.405331+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2034}
+{"time_utc": "2026-10-31T18:12:13.407808+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1798}
+{"time_utc": "2026-10-31T18:12:13.410235+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:13.412822+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:13.415322+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:13.417802+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:13.420363+00:00", "event": "act_frame", "frame": 44, "positions": [2036, 1797, 2769, 2932, 1190, 2271], "action": [-7.052660942077637, -20.73289680480957, 64.77930450439453, 74.74710083007812, -67.19424438476562, 18.535667419433594], "proposed": [2034, 1798, 2725, 2894, 1283, 2272], "sent": [2034, 1798, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:13.511490+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2034}
+{"time_utc": "2026-10-31T18:12:13.514054+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1798}
+{"time_utc": "2026-10-31T18:12:13.516582+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:13.519108+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:13.521515+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:13.523889+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:13.526254+00:00", "event": "act_frame", "frame": 45, "positions": [2035, 1797, 2769, 2932, 1190, 2271], "action": [-7.053733825683594, -20.71216583251953, 64.7930679321289, 74.7254867553711, -67.18861389160156, 18.535451889038086], "proposed": [2034, 1798, 2725, 2894, 1283, 2272], "sent": [2034, 1798, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:13.612170+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2034}
+{"time_utc": "2026-10-31T18:12:13.614657+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:13.617024+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:13.619461+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:13.621780+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:13.624236+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:13.626650+00:00", "event": "act_frame", "frame": 46, "positions": [2035, 1797, 2769, 2932, 1190, 2271], "action": [-7.045111656188965, -20.74773406982422, 64.78137969970703, 74.76518249511719, -67.1576156616211, 18.537410736083984], "proposed": [2034, 1797, 2725, 2894, 1284, 2272], "sent": [2034, 1797, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:13.718938+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2033}
+{"time_utc": "2026-10-31T18:12:13.721592+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1798}
+{"time_utc": "2026-10-31T18:12:13.724037+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:13.726449+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:13.728820+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:13.731157+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:13.733568+00:00", "event": "act_frame", "frame": 47, "positions": [2035, 1797, 2769, 2932, 1190, 2271], "action": [-7.079071998596191, -20.74405288696289, 64.79106140136719, 74.70394897460938, -67.262451171875, 18.535682678222656], "proposed": [2033, 1798, 2725, 2894, 1282, 2272], "sent": [2033, 1798, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:13.820367+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2033}
+{"time_utc": "2026-10-31T18:12:13.822824+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1798}
+{"time_utc": "2026-10-31T18:12:13.825229+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:13.827646+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:13.830018+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:13.832391+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:13.834863+00:00", "event": "act_frame", "frame": 48, "positions": [2035, 1797, 2769, 2932, 1190, 2271], "action": [-7.080706596374512, -20.721881866455078, 64.79289245605469, 74.68911743164062, -67.30128479003906, 18.5354061126709], "proposed": [2033, 1798, 2725, 2894, 1282, 2272], "sent": [2033, 1798, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:13.927568+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2033}
+{"time_utc": "2026-10-31T18:12:13.930140+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1798}
+{"time_utc": "2026-10-31T18:12:13.933017+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:13.935648+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:13.938243+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:13.940741+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:13.943188+00:00", "event": "act_frame", "frame": 49, "positions": [2035, 1797, 2769, 2932, 1190, 2271], "action": [-7.081188201904297, -20.711660385131836, 64.79508972167969, 74.690185546875, -67.30850219726562, 18.53289794921875], "proposed": [2033, 1798, 2725, 2894, 1282, 2272], "sent": [2033, 1798, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:14.032947+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2034}
+{"time_utc": "2026-10-31T18:12:14.035572+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1798}
+{"time_utc": "2026-10-31T18:12:14.038083+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:14.040506+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:14.043100+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:14.045595+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:14.047946+00:00", "event": "act_frame", "frame": 50, "positions": [2035, 1797, 2769, 2932, 1190, 2271], "action": [-7.07575798034668, -20.73028564453125, 64.78987121582031, 74.68802642822266, -67.24821472167969, 18.535646438598633], "proposed": [2034, 1798, 2725, 2894, 1283, 2272], "sent": [2034, 1798, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:14.152073+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2026}
+{"time_utc": "2026-10-31T18:12:14.154673+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:14.157121+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:14.159515+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:14.161972+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:14.164316+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:14.166740+00:00", "event": "act_frame", "frame": 51, "positions": [2035, 1797, 2769, 2932, 1190, 2271], "action": [-7.761333465576172, -20.826194763183594, 64.82218933105469, 74.85626983642578, -66.79462432861328, 18.51889419555664], "proposed": [2026, 1797, 2725, 2895, 1288, 2272], "sent": [2026, 1797, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:14.239855+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2026}
+{"time_utc": "2026-10-31T18:12:14.242339+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:14.244713+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:14.247153+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:14.249593+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:14.252164+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:14.254643+00:00", "event": "act_frame", "frame": 52, "positions": [2035, 1797, 2769, 2932, 1190, 2271], "action": [-7.770930290222168, -20.847957611083984, 64.82978057861328, 74.84121704101562, -66.72055053710938, 18.520145416259766], "proposed": [2026, 1796, 2725, 2895, 1289, 2272], "sent": [2026, 1796, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:14.343264+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2025}
+{"time_utc": "2026-10-31T18:12:14.345812+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:14.348588+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:14.351327+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:14.353962+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:14.356302+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:14.358728+00:00", "event": "act_frame", "frame": 53, "positions": [2035, 1797, 2769, 2932, 1190, 2271], "action": [-7.793157577514648, -20.809955596923828, 64.84935760498047, 74.7840805053711, -66.83358764648438, 18.517223358154297], "proposed": [2025, 1797, 2726, 2895, 1287, 2272], "sent": [2025, 1797, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:14.444658+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2025}
+{"time_utc": "2026-10-31T18:12:14.447293+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:14.449679+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:14.452095+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:14.454490+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:14.456871+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:14.459332+00:00", "event": "act_frame", "frame": 54, "positions": [2029, 1797, 2769, 2932, 1190, 2271], "action": [-7.78928279876709, -20.821136474609375, 64.84385681152344, 74.78164672851562, -66.80289459228516, 18.515670776367188], "proposed": [2025, 1797, 2726, 2895, 1288, 2272], "sent": [2025, 1797, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:14.549329+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2025}
+{"time_utc": "2026-10-31T18:12:14.551973+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:14.554440+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:14.557077+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:14.559634+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:14.562019+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:14.564500+00:00", "event": "act_frame", "frame": 55, "positions": [2028, 1797, 2769, 2932, 1190, 2271], "action": [-7.789496421813965, -20.80012321472168, 64.85832977294922, 74.76203155517578, -66.78396606445312, 18.515182495117188], "proposed": [2025, 1797, 2726, 2894, 1288, 2272], "sent": [2025, 1797, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:14.653178+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2025}
+{"time_utc": "2026-10-31T18:12:14.655704+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:14.658073+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:14.660504+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:14.662841+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1206}
+{"time_utc": "2026-10-31T18:12:14.665241+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:14.667694+00:00", "event": "act_frame", "frame": 56, "positions": [2028, 1797, 2769, 2932, 1190, 2271], "action": [-7.781763076782227, -20.837671279907227, 64.84514617919922, 74.80067443847656, -66.77457427978516, 18.51760482788086], "proposed": [2025, 1796, 2726, 2895, 1288, 2272], "sent": [2025, 1796, 2753, 2916, 1206, 2272]}
+{"time_utc": "2026-10-31T18:12:14.754411+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2025}
+{"time_utc": "2026-10-31T18:12:14.756940+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:14.759354+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:14.761853+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:14.764317+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1213}
+{"time_utc": "2026-10-31T18:12:14.766808+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:14.769293+00:00", "event": "act_frame", "frame": 57, "positions": [2028, 1797, 2769, 2932, 1197, 2271], "action": [-7.812809944152832, -20.831640243530273, 64.85635375976562, 74.74151611328125, -66.85386657714844, 18.515491485595703], "proposed": [2025, 1797, 2726, 2894, 1287, 2272], "sent": [2025, 1797, 2753, 2916, 1213, 2272]}
+{"time_utc": "2026-10-31T18:12:14.856256+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2025}
+{"time_utc": "2026-10-31T18:12:14.858828+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:14.861381+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2753}
+{"time_utc": "2026-10-31T18:12:14.863785+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:14.866278+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1219}
+{"time_utc": "2026-10-31T18:12:14.868718+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:14.871141+00:00", "event": "act_frame", "frame": 58, "positions": [2027, 1797, 2769, 2932, 1203, 2271], "action": [-7.8136186599731445, -20.809743881225586, 64.85847473144531, 74.72808837890625, -66.88349151611328, 18.514917373657227], "proposed": [2025, 1797, 2726, 2894, 1287, 2272], "sent": [2025, 1797, 2753, 2916, 1219, 2272]}
+{"time_utc": "2026-10-31T18:12:14.959949+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2025}
+{"time_utc": "2026-10-31T18:12:14.962610+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:14.965097+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2752}
+{"time_utc": "2026-10-31T18:12:14.967533+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:14.969917+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1221}
+{"time_utc": "2026-10-31T18:12:14.972525+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:14.975076+00:00", "event": "act_frame", "frame": 59, "positions": [2027, 1797, 2768, 2932, 1205, 2271], "action": [-7.813720703125, -20.799671173095703, 64.8609619140625, 74.72940063476562, -66.8876953125, 18.512392044067383], "proposed": [2025, 1797, 2726, 2894, 1287, 2272], "sent": [2025, 1797, 2752, 2916, 1221, 2272]}
+{"time_utc": "2026-10-31T18:12:15.062258+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2025}
+{"time_utc": "2026-10-31T18:12:15.064825+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1797}
+{"time_utc": "2026-10-31T18:12:15.067348+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2751}
+{"time_utc": "2026-10-31T18:12:15.069747+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:15.072150+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1222}
+{"time_utc": "2026-10-31T18:12:15.074703+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:15.077336+00:00", "event": "act_frame", "frame": 60, "positions": [2027, 1797, 2767, 2932, 1206, 2271], "action": [-7.80843448638916, -20.81821632385254, 64.85577392578125, 74.72692108154297, -66.83174133300781, 18.515155792236328], "proposed": [2025, 1797, 2726, 2894, 1287, 2272], "sent": [2025, 1797, 2751, 2916, 1222, 2272]}
+{"time_utc": "2026-10-31T18:12:15.176844+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2020}
+{"time_utc": "2026-10-31T18:12:15.179566+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:15.182293+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2751}
+{"time_utc": "2026-10-31T18:12:15.184985+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:15.187555+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1222}
+{"time_utc": "2026-10-31T18:12:15.190042+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:15.192658+00:00", "event": "act_frame", "frame": 61, "positions": [2027, 1797, 2767, 2932, 1206, 2271], "action": [-8.294222831726074, -20.90663719177246, 64.81344604492188, 74.88475036621094, -65.3634262084961, 18.500656127929688], "proposed": [2020, 1796, 2725, 2896, 1304, 2272], "sent": [2020, 1796, 2751, 2916, 1222, 2272]}
+{"time_utc": "2026-10-31T18:12:15.270762+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2020}
+{"time_utc": "2026-10-31T18:12:15.273435+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:15.276169+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2751}
+{"time_utc": "2026-10-31T18:12:15.278727+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:15.281467+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1222}
+{"time_utc": "2026-10-31T18:12:15.284200+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:15.286952+00:00", "event": "act_frame", "frame": 62, "positions": [2027, 1797, 2767, 2932, 1206, 2271], "action": [-8.302627563476562, -20.927963256835938, 64.82073211669922, 74.87109375, -65.28958129882812, 18.501911163330078], "proposed": [2020, 1795, 2725, 2896, 1305, 2272], "sent": [2020, 1795, 2751, 2916, 1222, 2272]}
+{"time_utc": "2026-10-31T18:12:15.375981+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2019}
+{"time_utc": "2026-10-31T18:12:15.378731+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:15.381471+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2751}
+{"time_utc": "2026-10-31T18:12:15.384137+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:15.386701+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1222}
+{"time_utc": "2026-10-31T18:12:15.389333+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:15.392149+00:00", "event": "act_frame", "frame": 63, "positions": [2023, 1797, 2767, 2932, 1206, 2271], "action": [-8.324361801147461, -20.88936424255371, 64.84136199951172, 74.8160400390625, -65.37310028076172, 18.49838638305664], "proposed": [2019, 1796, 2726, 2895, 1304, 2272], "sent": [2019, 1796, 2751, 2916, 1222, 2272]}
+{"time_utc": "2026-10-31T18:12:15.479670+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2019}
+{"time_utc": "2026-10-31T18:12:15.482252+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:15.484743+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2751}
+{"time_utc": "2026-10-31T18:12:15.487156+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:15.489526+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1224}
+{"time_utc": "2026-10-31T18:12:15.491935+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:15.494361+00:00", "event": "act_frame", "frame": 64, "positions": [2022, 1797, 2767, 2932, 1208, 2271], "action": [-8.320882797241211, -20.899433135986328, 64.83645629882812, 74.8123779296875, -65.34165954589844, 18.496761322021484], "proposed": [2019, 1796, 2726, 2895, 1304, 2272], "sent": [2019, 1796, 2751, 2916, 1224, 2272]}
+{"time_utc": "2026-10-31T18:12:15.581595+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2019}
+{"time_utc": "2026-10-31T18:12:15.584144+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:15.586636+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2751}
+{"time_utc": "2026-10-31T18:12:15.589030+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:15.591454+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1231}
+{"time_utc": "2026-10-31T18:12:15.593822+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:15.596239+00:00", "event": "act_frame", "frame": 65, "positions": [2022, 1797, 2767, 2932, 1215, 2271], "action": [-8.321028709411621, -20.87851333618164, 64.85105895996094, 74.79414367675781, -65.31289672851562, 18.496028900146484], "proposed": [2019, 1796, 2726, 2895, 1305, 2272], "sent": [2019, 1796, 2751, 2916, 1231, 2272]}
+{"time_utc": "2026-10-31T18:12:15.686189+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2019}
+{"time_utc": "2026-10-31T18:12:15.688782+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:15.691369+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2749}
+{"time_utc": "2026-10-31T18:12:15.693896+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:15.696364+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1236}
+{"time_utc": "2026-10-31T18:12:15.698804+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:15.701206+00:00", "event": "act_frame", "frame": 66, "positions": [2022, 1797, 2765, 2932, 1220, 2271], "action": [-8.312949180603027, -20.916475296020508, 64.83658599853516, 74.83192443847656, -65.3248291015625, 18.49895668029785], "proposed": [2019, 1796, 2726, 2895, 1304, 2272], "sent": [2019, 1796, 2749, 2916, 1236, 2272]}
+{"time_utc": "2026-10-31T18:12:15.790466+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2019}
+{"time_utc": "2026-10-31T18:12:15.792804+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:15.795203+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2748}
+{"time_utc": "2026-10-31T18:12:15.797578+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:15.800076+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1240}
+{"time_utc": "2026-10-31T18:12:15.802642+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:15.805171+00:00", "event": "act_frame", "frame": 67, "positions": [2022, 1798, 2764, 2932, 1224, 2271], "action": [-8.342564582824707, -20.909074783325195, 64.84921264648438, 74.77407836914062, -65.37763214111328, 18.496400833129883], "proposed": [2019, 1796, 2726, 2895, 1304, 2272], "sent": [2019, 1796, 2748, 2916, 1240, 2272]}
+{"time_utc": "2026-10-31T18:12:15.895319+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2019}
+{"time_utc": "2026-10-31T18:12:15.897833+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:15.900405+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2748}
+{"time_utc": "2026-10-31T18:12:15.902965+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:15.905316+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1247}
+{"time_utc": "2026-10-31T18:12:15.907715+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:15.910115+00:00", "event": "act_frame", "frame": 68, "positions": [2022, 1798, 2764, 2932, 1231, 2270], "action": [-8.343356132507324, -20.886653900146484, 64.85195922851562, 74.76145935058594, -65.39803314208984, 18.495500564575195], "proposed": [2019, 1796, 2726, 2894, 1304, 2272], "sent": [2019, 1796, 2748, 2916, 1247, 2272]}
+{"time_utc": "2026-10-31T18:12:15.998351+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2019}
+{"time_utc": "2026-10-31T18:12:16.000939+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:16.003319+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2748}
+{"time_utc": "2026-10-31T18:12:16.005665+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:16.008109+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:16.010744+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:16.013247+00:00", "event": "act_frame", "frame": 69, "positions": [2022, 1798, 2764, 2932, 1237, 2270], "action": [-8.343243598937988, -20.876535415649414, 64.8551025390625, 74.76310729980469, -65.399169921875, 18.492952346801758], "proposed": [2019, 1796, 2726, 2894, 1304, 2272], "sent": [2019, 1796, 2748, 2916, 1253, 2272]}
+{"time_utc": "2026-10-31T18:12:16.096912+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2019}
+{"time_utc": "2026-10-31T18:12:16.099443+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:16.101858+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:16.104381+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:16.106815+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:16.109380+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2272}
+{"time_utc": "2026-10-31T18:12:16.111743+00:00", "event": "act_frame", "frame": 70, "positions": [2022, 1798, 2763, 2932, 1237, 2270], "action": [-8.338367462158203, -20.894794464111328, 64.84938049316406, 74.76044464111328, -65.34563446044922, 18.495716094970703], "proposed": [2019, 1796, 2726, 2894, 1304, 2272], "sent": [2019, 1796, 2747, 2916, 1253, 2272]}
+{"time_utc": "2026-10-31T18:12:16.216886+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2016}
+{"time_utc": "2026-10-31T18:12:16.219466+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:16.221993+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:16.224319+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:16.226767+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:16.229142+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:16.231632+00:00", "event": "act_frame", "frame": 71, "positions": [2022, 1798, 2763, 2932, 1237, 2270], "action": [-8.636680603027344, -20.926918029785156, 64.70329284667969, 74.91603088378906, -62.99882507324219, 18.455726623535156], "proposed": [2016, 1795, 2724, 2896, 1331, 2271], "sent": [2016, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:16.306019+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2016}
+{"time_utc": "2026-10-31T18:12:16.308579+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:16.311057+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:16.313535+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:16.316076+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:16.318615+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:16.320987+00:00", "event": "act_frame", "frame": 72, "positions": [2022, 1798, 2763, 2932, 1237, 2270], "action": [-8.64496898651123, -20.947717666625977, 64.71104431152344, 74.90232849121094, -62.92317581176758, 18.45690155029297], "proposed": [2016, 1795, 2724, 2896, 1332, 2271], "sent": [2016, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:16.409483+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2015}
+{"time_utc": "2026-10-31T18:12:16.412181+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:16.414676+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:16.417091+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:16.419511+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:16.422018+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:16.424517+00:00", "event": "act_frame", "frame": 73, "positions": [2018, 1798, 2763, 2932, 1237, 2270], "action": [-8.666192054748535, -20.910009384155273, 64.73320007324219, 74.84796905517578, -62.98797607421875, 18.452938079833984], "proposed": [2015, 1796, 2724, 2895, 1331, 2271], "sent": [2015, 1796, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:16.512580+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2015}
+{"time_utc": "2026-10-31T18:12:16.515068+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:16.517441+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:16.519805+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:16.522262+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:16.524767+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:16.527188+00:00", "event": "act_frame", "frame": 74, "positions": [2018, 1798, 2763, 2932, 1237, 2270], "action": [-8.663049697875977, -20.91904067993164, 64.72881317138672, 74.84363555908203, -62.95527648925781, 18.451417922973633], "proposed": [2015, 1796, 2724, 2895, 1331, 2271], "sent": [2015, 1796, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:16.616675+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2015}
+{"time_utc": "2026-10-31T18:12:16.619229+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:16.621766+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:16.624141+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:16.626576+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:16.628910+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:16.631301+00:00", "event": "act_frame", "frame": 75, "positions": [2018, 1798, 2763, 2932, 1237, 2270], "action": [-8.663080215454102, -20.898517608642578, 64.74400329589844, 74.82591247558594, -62.92166519165039, 18.450468063354492], "proposed": [2015, 1796, 2724, 2895, 1332, 2271], "sent": [2015, 1796, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:16.721595+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2016}
+{"time_utc": "2026-10-31T18:12:16.724163+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:16.726582+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:16.728985+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:16.731543+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:16.734096+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:16.736491+00:00", "event": "act_frame", "frame": 76, "positions": [2018, 1798, 2763, 2932, 1237, 2270], "action": [-8.65473461151123, -20.936195373535156, 64.72820281982422, 74.86338806152344, -62.94762420654297, 18.453752517700195], "proposed": [2016, 1795, 2724, 2896, 1331, 2271], "sent": [2016, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:16.824801+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2015}
+{"time_utc": "2026-10-31T18:12:16.827324+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:16.829827+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:16.832231+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:16.834668+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:16.837157+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:16.839659+00:00", "event": "act_frame", "frame": 77, "positions": [2018, 1798, 2763, 2932, 1237, 2270], "action": [-8.68459701538086, -20.92833137512207, 64.74313354492188, 74.8065414428711, -62.978294372558594, 18.45139503479004], "proposed": [2015, 1795, 2724, 2895, 1331, 2271], "sent": [2015, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:16.925168+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2015}
+{"time_utc": "2026-10-31T18:12:16.927625+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:16.930044+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:16.932542+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:16.935215+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:16.937786+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:16.940346+00:00", "event": "act_frame", "frame": 78, "positions": [2018, 1798, 2763, 2932, 1237, 2270], "action": [-8.68521785736084, -20.90650749206543, 64.74658203125, 74.79400634765625, -62.99591827392578, 18.450180053710938], "proposed": [2015, 1796, 2724, 2895, 1331, 2271], "sent": [2015, 1796, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:17.030448+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2015}
+{"time_utc": "2026-10-31T18:12:17.032989+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:17.035621+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:17.038093+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:17.040481+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:17.042851+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:17.045267+00:00", "event": "act_frame", "frame": 79, "positions": [2018, 1798, 2763, 2932, 1237, 2270], "action": [-8.68498706817627, -20.896833419799805, 64.74960327148438, 74.79585266113281, -62.99796676635742, 18.447603225708008], "proposed": [2015, 1796, 2725, 2895, 1331, 2271], "sent": [2015, 1796, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:17.129607+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2015}
+{"time_utc": "2026-10-31T18:12:17.132170+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1796}
+{"time_utc": "2026-10-31T18:12:17.134584+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:17.136912+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:17.139297+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:17.141698+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:17.144131+00:00", "event": "act_frame", "frame": 80, "positions": [2018, 1798, 2763, 2932, 1237, 2270], "action": [-8.680558204650879, -20.914134979248047, 64.74406433105469, 74.79320526123047, -62.942447662353516, 18.450523376464844], "proposed": [2015, 1796, 2724, 2895, 1332, 2271], "sent": [2015, 1796, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:17.242343+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2013}
+{"time_utc": "2026-10-31T18:12:17.244962+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:17.247351+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:17.249723+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:17.252071+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:17.254522+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:17.256977+00:00", "event": "act_frame", "frame": 81, "positions": [2018, 1798, 2763, 2932, 1237, 2270], "action": [-8.889538764953613, -20.956995010375977, 64.71804809570312, 74.93981170654297, -62.96936798095703, 18.450098037719727], "proposed": [2013, 1795, 2724, 2896, 1331, 2271], "sent": [2013, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:17.334917+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2013}
+{"time_utc": "2026-10-31T18:12:17.337569+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:17.340114+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:17.342665+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:17.345152+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:17.347622+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:17.350121+00:00", "event": "act_frame", "frame": 82, "positions": [2018, 1798, 2763, 2932, 1237, 2270], "action": [-8.897322654724121, -20.978248596191406, 64.72598266601562, 74.92674255371094, -62.892486572265625, 18.45136833190918], "proposed": [2013, 1795, 2724, 2896, 1332, 2271], "sent": [2013, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:17.436773+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2013}
+{"time_utc": "2026-10-31T18:12:17.439369+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:17.441792+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:17.444132+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:17.446582+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:17.448925+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:17.451391+00:00", "event": "act_frame", "frame": 83, "positions": [2017, 1798, 2763, 2932, 1237, 2270], "action": [-8.918500900268555, -20.940065383911133, 64.75017547607422, 74.87376403808594, -62.949607849121094, 18.448278427124023], "proposed": [2013, 1795, 2725, 2896, 1331, 2271], "sent": [2013, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:17.539435+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2013}
+{"time_utc": "2026-10-31T18:12:17.541962+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:17.544388+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:17.546788+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:17.549338+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:17.552039+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:17.554658+00:00", "event": "act_frame", "frame": 84, "positions": [2017, 1798, 2763, 2932, 1237, 2270], "action": [-8.915325164794922, -20.94870948791504, 64.74589538574219, 74.86882781982422, -62.91654968261719, 18.446744918823242], "proposed": [2013, 1795, 2724, 2896, 1332, 2271], "sent": [2013, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:17.642421+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2013}
+{"time_utc": "2026-10-31T18:12:17.645106+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:17.647618+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:17.650003+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:17.652381+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:17.654850+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:17.657396+00:00", "event": "act_frame", "frame": 85, "positions": [2017, 1798, 2763, 2932, 1237, 2270], "action": [-8.915586471557617, -20.928245544433594, 64.76138305664062, 74.85195922851562, -62.87957763671875, 18.44607925415039], "proposed": [2013, 1795, 2725, 2895, 1332, 2271], "sent": [2013, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:17.744479+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2013}
+{"time_utc": "2026-10-31T18:12:17.747020+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:17.749548+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:17.751886+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:17.754300+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:17.756715+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:17.759095+00:00", "event": "act_frame", "frame": 86, "positions": [2017, 1798, 2763, 2932, 1237, 2270], "action": [-8.906497955322266, -20.96640968322754, 64.74472045898438, 74.8886489868164, -62.91120910644531, 18.448822021484375], "proposed": [2013, 1795, 2724, 2896, 1332, 2271], "sent": [2013, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:17.846179+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2012}
+{"time_utc": "2026-10-31T18:12:17.848825+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:17.851347+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:17.853872+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:17.856402+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:17.858796+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:17.861169+00:00", "event": "act_frame", "frame": 87, "positions": [2017, 1798, 2763, 2932, 1237, 2270], "action": [-8.937207221984863, -20.957643508911133, 64.76078033447266, 74.83329772949219, -62.935264587402344, 18.447311401367188], "proposed": [2012, 1795, 2725, 2895, 1332, 2271], "sent": [2012, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:17.945878+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2012}
+{"time_utc": "2026-10-31T18:12:17.948445+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:17.950993+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:17.953521+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:17.955918+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:17.958278+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:17.960787+00:00", "event": "act_frame", "frame": 88, "positions": [2017, 1798, 2763, 2932, 1237, 2270], "action": [-8.937777519226074, -20.935998916625977, 64.76429748535156, 74.82125854492188, -62.94938659667969, 18.446081161499023], "proposed": [2012, 1795, 2725, 2895, 1331, 2271], "sent": [2012, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:18.051373+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2012}
+{"time_utc": "2026-10-31T18:12:18.053888+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:18.056493+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:18.059048+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:18.061565+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:18.063889+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:18.066318+00:00", "event": "act_frame", "frame": 89, "positions": [2015, 1798, 2763, 2932, 1237, 2270], "action": [-8.937604904174805, -20.926246643066406, 64.76731872558594, 74.82321166992188, -62.951255798339844, 18.443519592285156], "proposed": [2012, 1795, 2725, 2895, 1331, 2271], "sent": [2012, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:18.155350+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2012}
+{"time_utc": "2026-10-31T18:12:18.157839+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:18.160197+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:18.162624+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:18.164966+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:18.167408+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:18.169795+00:00", "event": "act_frame", "frame": 90, "positions": [2015, 1798, 2763, 2932, 1237, 2270], "action": [-8.933151245117188, -20.943449020385742, 64.76177978515625, 74.82052612304688, -62.896034240722656, 18.446426391601562], "proposed": [2012, 1795, 2725, 2895, 1332, 2271], "sent": [2012, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:18.273256+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2011}
+{"time_utc": "2026-10-31T18:12:18.275787+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:18.278166+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:18.280625+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:18.283133+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:18.285669+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:18.288086+00:00", "event": "act_frame", "frame": 91, "positions": [2015, 1798, 2763, 2932, 1237, 2270], "action": [-9.080782890319824, -20.97827911376953, 64.72616577148438, 74.959716796875, -62.96099090576172, 18.445823669433594], "proposed": [2011, 1795, 2724, 2897, 1331, 2271], "sent": [2011, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:18.362417+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2011}
+{"time_utc": "2026-10-31T18:12:18.364927+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:18.367306+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:18.369810+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:18.372243+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:18.374574+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:18.377077+00:00", "event": "act_frame", "frame": 92, "positions": [2015, 1798, 2763, 2932, 1237, 2270], "action": [-9.089363098144531, -20.99917221069336, 64.73428344726562, 74.94761657714844, -62.88414001464844, 18.44767951965332], "proposed": [2011, 1795, 2724, 2897, 1332, 2271], "sent": [2011, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:18.466850+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2010}
+{"time_utc": "2026-10-31T18:12:18.469331+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:18.471759+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:18.474240+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:18.476907+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:18.479268+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:18.481681+00:00", "event": "act_frame", "frame": 93, "positions": [2013, 1798, 2763, 2932, 1237, 2270], "action": [-9.110200881958008, -20.960830688476562, 64.75933837890625, 74.89513397216797, -62.93595886230469, 18.444801330566406], "proposed": [2010, 1795, 2725, 2896, 1332, 2271], "sent": [2010, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:18.567564+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2010}
+{"time_utc": "2026-10-31T18:12:18.570067+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:18.572508+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:18.574969+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:18.577378+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:18.579760+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:18.582169+00:00", "event": "act_frame", "frame": 94, "positions": [2013, 1798, 2763, 2932, 1237, 2270], "action": [-9.107189178466797, -20.96910858154297, 64.75480651855469, 74.8898696899414, -62.90260314941406, 18.443208694458008], "proposed": [2010, 1795, 2725, 2896, 1332, 2271], "sent": [2010, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:18.671166+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2010}
+{"time_utc": "2026-10-31T18:12:18.673855+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:18.676393+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:18.678749+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:18.681169+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:18.683621+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:18.686086+00:00", "event": "act_frame", "frame": 95, "positions": [2013, 1798, 2763, 2932, 1237, 2270], "action": [-9.106635093688965, -20.94936180114746, 64.77185821533203, 74.8731689453125, -62.86274337768555, 18.442821502685547], "proposed": [2010, 1795, 2725, 2896, 1332, 2271], "sent": [2010, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:18.773717+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2011}
+{"time_utc": "2026-10-31T18:12:18.776213+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:18.778632+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:18.780986+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:18.783357+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:18.785744+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:18.788150+00:00", "event": "act_frame", "frame": 96, "positions": [2013, 1798, 2763, 2932, 1237, 2270], "action": [-9.098467826843262, -20.98683738708496, 64.7530746459961, 74.90991973876953, -62.89984893798828, 18.44525909423828], "proposed": [2011, 1795, 2725, 2896, 1332, 2271], "sent": [2011, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:18.878549+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2010}
+{"time_utc": "2026-10-31T18:12:18.881033+00:00", "event": "write_attempt", "id": 2, "register": "goal_position", "value": 1795}
+{"time_utc": "2026-10-31T18:12:18.883478+00:00", "event": "write_attempt", "id": 3, "register": "goal_position", "value": 2747}
+{"time_utc": "2026-10-31T18:12:18.886026+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2916}
+{"time_utc": "2026-10-31T18:12:18.888645+00:00", "event": "write_attempt", "id": 5, "register": "goal_position", "value": 1253}
+{"time_utc": "2026-10-31T18:12:18.891210+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2271}
+{"time_utc": "2026-10-31T18:12:18.893907+00:00", "event": "act_frame", "frame": 97, "positions": [2013, 1798, 2763, 2932, 1237, 2270], "action": [-9.12790298461914, -20.97870445251465, 64.77128601074219, 74.85472106933594, -62.91620635986328, 18.444034576416016], "proposed": [2010, 1795, 2725, 2895, 1332, 2271], "sent": [2010, 1795, 2747, 2916, 1253, 2271]}
+{"time_utc": "2026-10-31T18:12:18.918046+00:00", "event": "trial_duration_complete", "frames": 97, "task_success": "not_assessed"}
+{"time_utc": "2026-10-31T18:12:18.946880+00:00", "event": "cleanup", "all_torque_off_verified": true, "per_motor": [true, true, true, true, true, true]}

@@ -1,0 +1,18 @@
+{"time_utc": "2026-10-31T16:03:36.194696+00:00", "event": "first_goal_is_actuation", "id": 6, "start": 2384, "target": 2416, "step": 32}
+{"time_utc": "2026-10-31T16:03:36.195075+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2416}
+{"time_utc": "2026-10-31T16:03:36.198762+00:00", "event": "write_response", "id": 6, "register": "goal_position", "status": 0}
+{"time_utc": "2026-10-31T16:03:36.210812+00:00", "event": "sample", "position": 2384, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T16:03:36.300585+00:00", "event": "sample", "position": 2384, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T16:03:36.388480+00:00", "event": "sample", "position": 2388, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T16:03:36.475681+00:00", "event": "sample", "position": 2393, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T16:03:36.565471+00:00", "event": "sample", "position": 2398, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T16:03:36.654912+00:00", "event": "sample", "position": 2403, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T16:03:36.746354+00:00", "event": "sample", "position": 2407, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T16:03:36.834889+00:00", "event": "sample", "position": 2412, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T16:03:36.926019+00:00", "event": "sample", "position": 2415, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T16:03:37.015111+00:00", "event": "sample", "position": 2415, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T16:03:37.105047+00:00", "event": "sample", "position": 2415, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T16:03:37.132427+00:00", "event": "result", "reached": true, "start": 2384, "target": 2416, "position": 2415}
+{"time_utc": "2026-10-31T16:03:37.132605+00:00", "event": "write_attempt", "id": 6, "register": "torque_enable", "value": 0}
+{"time_utc": "2026-10-31T16:03:37.137894+00:00", "event": "cleanup", "motor6_torque_off_verified": true}
+{"time_utc": "2026-10-31T16:03:38.141826+00:00", "event": "port_closed", "reached": true}

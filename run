@@ -1,0 +1,11 @@
+#!/bin/bash
+# Project-only dependency paths. Does not connect any device by itself.
+set -euo pipefail
+ROOT="$(cd -- "$(dirname -- "$0")" && pwd)"
+export PATH="$ROOT/.venv/bin:/opt/homebrew/opt/ffmpeg@8/bin:$PATH"
+export DYLD_LIBRARY_PATH="/opt/homebrew/opt/ffmpeg@8/lib${DYLD_LIBRARY_PATH:+:$DYLD_LIBRARY_PATH}"
+if [ "$#" -eq 0 ]; then
+  printf 'Usage: bash %s/run python SCRIPT [ARGS...]\n' "$ROOT"
+  exit 2
+fi
+exec "$@"

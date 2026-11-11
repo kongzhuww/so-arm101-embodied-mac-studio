@@ -1,0 +1,23 @@
+{"time_utc": "2026-10-31T17:19:44.531099+00:00", "event": "write_attempt", "id": 1, "register": "torque_limit", "value": 50}
+{"time_utc": "2026-10-31T17:19:44.534390+00:00", "event": "write_response", "id": 1, "register": "torque_limit", "status": 0}
+{"time_utc": "2026-10-31T17:19:44.565535+00:00", "event": "write_attempt", "id": 1, "register": "acceleration", "value": 1}
+{"time_utc": "2026-10-31T17:19:44.568023+00:00", "event": "write_response", "id": 1, "register": "acceleration", "status": 0}
+{"time_utc": "2026-10-31T17:19:44.599566+00:00", "event": "write_attempt", "id": 1, "register": "goal_speed", "value": 50}
+{"time_utc": "2026-10-31T17:19:44.602114+00:00", "event": "write_response", "id": 1, "register": "goal_speed", "status": 0}
+{"time_utc": "2026-10-31T17:19:44.633314+00:00", "event": "write_attempt", "id": 1, "register": "goal_time", "value": 0}
+{"time_utc": "2026-10-31T17:19:44.635841+00:00", "event": "write_response", "id": 1, "register": "goal_time", "status": 0}
+{"time_utc": "2026-10-31T17:19:44.676400+00:00", "event": "write_attempt", "id": 1, "register": "goal_position", "value": 2044}
+{"time_utc": "2026-10-31T17:19:44.678985+00:00", "event": "write_response", "id": 1, "register": "goal_position", "status": 0}
+{"time_utc": "2026-10-31T17:19:44.691024+00:00", "event": "sample", "position": 2028, "torque": 1, "status": 0, "temperature": 35, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:19:44.780035+00:00", "event": "sample", "position": 2028, "torque": 1, "status": 0, "temperature": 35, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:19:44.866815+00:00", "event": "sample", "position": 2031, "torque": 1, "status": 0, "temperature": 35, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:19:44.958404+00:00", "event": "sample", "position": 2037, "torque": 1, "status": 0, "temperature": 35, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:19:45.045821+00:00", "event": "sample", "position": 2040, "torque": 1, "status": 0, "temperature": 35, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:19:45.133220+00:00", "event": "sample", "position": 2042, "torque": 1, "status": 0, "temperature": 35, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:19:45.223201+00:00", "event": "sample", "position": 2042, "torque": 1, "status": 0, "temperature": 35, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:19:45.312529+00:00", "event": "sample", "position": 2042, "torque": 1, "status": 0, "temperature": 35, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:19:45.339145+00:00", "event": "result", "start": 2028, "target": 2044, "reached": true, "position": 2042}
+{"time_utc": "2026-10-31T17:19:45.339276+00:00", "event": "write_attempt", "id": 1, "register": "torque_enable", "value": 0}
+{"time_utc": "2026-10-31T17:19:45.341672+00:00", "event": "write_response", "id": 1, "register": "torque_enable", "status": 0}
+{"time_utc": "2026-10-31T17:19:45.344039+00:00", "event": "cleanup", "motor1_torque_off_verified": true}
+{"time_utc": "2026-10-31T17:19:46.347659+00:00", "event": "port_closed", "reached": true}

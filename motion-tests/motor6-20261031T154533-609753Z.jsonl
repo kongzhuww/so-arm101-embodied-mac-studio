@@ -1,0 +1,18 @@
+{"time_utc": "2026-10-31T15:45:34.779587+00:00", "event": "micro_preflight", "positions": {"1": 2029, "2": 1227, "3": 2528, "4": 2847, "5": 1962, "6": 2377}, "original_motor6_settings": {"goal_position": 2377, "goal_time": 0, "goal_speed": 50, "acceleration": 1, "torque_limit": 50}}
+{"time_utc": "2026-10-31T15:45:34.779965+00:00", "event": "waiting_move6_confirmation", "writes_armed": false}
+{"time_utc": "2026-10-31T15:45:49.440411+00:00", "event": "micro_motion_authorized", "start": 2377, "target": 2385}
+{"time_utc": "2026-10-31T15:45:49.443254+00:00", "event": "micro_write_attempt", "id": 6, "register": "goal_time", "value": 0}
+{"time_utc": "2026-10-31T15:45:49.447321+00:00", "event": "micro_write_response", "id": 6, "register": "goal_time", "status": 0}
+{"time_utc": "2026-10-31T15:45:49.449955+00:00", "event": "micro_write_attempt", "id": 6, "register": "goal_speed", "value": 50}
+{"time_utc": "2026-10-31T15:45:49.452664+00:00", "event": "micro_write_response", "id": 6, "register": "goal_speed", "status": 0}
+{"time_utc": "2026-10-31T15:45:49.455380+00:00", "event": "micro_write_attempt", "id": 6, "register": "acceleration", "value": 1}
+{"time_utc": "2026-10-31T15:45:49.458079+00:00", "event": "micro_write_response", "id": 6, "register": "acceleration", "status": 0}
+{"time_utc": "2026-10-31T15:45:49.460596+00:00", "event": "micro_write_attempt", "id": 6, "register": "torque_limit", "value": 50}
+{"time_utc": "2026-10-31T15:45:49.463143+00:00", "event": "micro_write_response", "id": 6, "register": "torque_limit", "status": 0}
+{"time_utc": "2026-10-31T15:45:49.465699+00:00", "event": "micro_write_attempt", "id": 6, "register": "goal_position", "value": 2377}
+{"time_utc": "2026-10-31T15:45:49.468232+00:00", "event": "micro_write_response", "id": 6, "register": "goal_position", "status": 0}
+{"time_utc": "2026-10-31T15:45:49.488379+00:00", "event": "micro_prepared_readback", "readings": {"goal_time": 0, "goal_speed": 50, "acceleration": 1, "torque_limit": 50, "goal_position": 2377, "present_position": 2377, "torque_enable": 1, "status": 0}}
+{"time_utc": "2026-10-31T15:45:49.488583+00:00", "event": "micro_write_attempt", "id": 6, "register": "torque_enable", "value": 0}
+{"time_utc": "2026-10-31T15:45:49.491053+00:00", "event": "micro_write_response", "id": 6, "register": "torque_enable", "status": 0}
+{"time_utc": "2026-10-31T15:45:49.493596+00:00", "event": "micro_cleanup", "motor6_torque_off_verified": true}
+{"time_utc": "2026-10-31T15:45:50.497991+00:00", "event": "micro_stopped", "error": "Stop", "message": "Not torque-off/alarm-free before enabling: torque=1, status=0x00"}

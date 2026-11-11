@@ -1,0 +1,12 @@
+{"time_utc": "2026-10-31T18:11:58.659807+00:00", "event": "write_attempt", "id": 3, "register": "torque_limit", "value": 50}
+{"time_utc": "2026-10-31T18:11:58.667276+00:00", "event": "write_attempt", "id": 3, "register": "acceleration", "value": 1}
+{"time_utc": "2026-10-31T18:11:58.674588+00:00", "event": "write_attempt", "id": 3, "register": "goal_speed", "value": 50}
+{"time_utc": "2026-10-31T18:11:58.681764+00:00", "event": "write_attempt", "id": 3, "register": "goal_time", "value": 0}
+{"time_utc": "2026-10-31T18:11:58.688873+00:00", "event": "write_attempt", "id": 4, "register": "torque_limit", "value": 50}
+{"time_utc": "2026-10-31T18:11:58.696076+00:00", "event": "write_attempt", "id": 4, "register": "acceleration", "value": 1}
+{"time_utc": "2026-10-31T18:11:58.703234+00:00", "event": "write_attempt", "id": 4, "register": "goal_speed", "value": 50}
+{"time_utc": "2026-10-31T18:11:58.710539+00:00", "event": "write_attempt", "id": 4, "register": "goal_time", "value": 0}
+{"time_utc": "2026-10-31T18:11:58.717703+00:00", "event": "write_attempt", "id": 5, "register": "torque_limit", "value": 50}
+{"time_utc": "2026-10-31T18:11:58.724850+00:00", "event": "write_attempt", "id": 5, "register": "acceleration", "value": 1}
+{"time_utc": "2026-10-31T18:11:58.732007+00:00", "event": "write_attempt", "id": 5, "register": "goal_speed", "value": 50}
+{"time_utc": "2026-10-31T18:11:58.739166+00:00", "event": "write_attempt", "id": 5, "register": "goal_time", "value": 0}

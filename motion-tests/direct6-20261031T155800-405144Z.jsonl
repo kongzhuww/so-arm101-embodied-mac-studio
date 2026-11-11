@@ -1,0 +1,10 @@
+{"time_utc": "2026-10-31T15:58:01.754120+00:00", "event": "first_goal_is_actuation", "id": 6, "start": 2377, "target": 2385, "step": 8}
+{"time_utc": "2026-10-31T15:58:01.754467+00:00", "event": "write_attempt", "id": 6, "register": "goal_position", "value": 2385}
+{"time_utc": "2026-10-31T15:58:01.757087+00:00", "event": "write_response", "id": 6, "register": "goal_position", "status": 0}
+{"time_utc": "2026-10-31T15:58:01.764765+00:00", "event": "sample", "position": 2377, "torque": 1, "status": 0}
+{"time_utc": "2026-10-31T15:58:01.854205+00:00", "event": "sample", "position": 2377, "torque": 1, "status": 0}
+{"time_utc": "2026-10-31T15:58:01.945588+00:00", "event": "sample", "position": 2382, "torque": 1, "status": 0}
+{"time_utc": "2026-10-31T15:58:02.035240+00:00", "event": "sample", "position": 2384, "torque": 1, "status": 0}
+{"time_utc": "2026-10-31T15:58:02.126260+00:00", "event": "sample", "position": 2384, "torque": 1, "status": 0}
+{"time_utc": "2026-10-31T15:58:02.128863+00:00", "event": "write_attempt", "id": 6, "register": "torque_enable", "value": 0}
+{"time_utc": "2026-10-31T15:58:02.134076+00:00", "event": "cleanup", "motor6_torque_off_verified": true}

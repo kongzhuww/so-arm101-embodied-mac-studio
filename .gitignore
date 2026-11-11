@@ -1,0 +1,34 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Hardware & System caches
+.DS_Store
+*.log
+reports/*.log
+reports/*.jsonl
+reports/position-check-*
+reports/*.jpg
+reports/*.png
+
+# Big Datasets & Trained Model Weights (Do not commit GB-sized artifacts)
+datasets/
+outputs/
+models/
+backups/*.json
+reports/*.json
+
+# Keep core configs and calibration templates
+!config/
+!calibration/
+!reports/README.md
+
+# Temporary run files
+*.tmp
+*.pid

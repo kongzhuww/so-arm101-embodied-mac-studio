@@ -1,0 +1,7 @@
+{
+  "purpose": "OFFLINE ONLY: last independent torque-off read after phone motor6 test. Not live arm feedback.",
+  "source": "read_only_probe.py after motion-tests/phone6-20261031T170217-501460Z.jsonl",
+  "positions": [2028, 1226, 2528, 2846, 1962, 2445],
+  "all_torque_off_at_read": true,
+  "motion_authorized": false
+}

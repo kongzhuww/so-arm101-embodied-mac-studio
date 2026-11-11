@@ -1,0 +1,19 @@
+{"time_utc": "2026-10-31T17:24:51.342476+00:00", "event": "write_attempt", "id": 4, "register": "torque_limit", "value": 50}
+{"time_utc": "2026-10-31T17:24:51.342590+00:00", "event": "write_response", "id": 4, "register": "torque_limit", "status": 0}
+{"time_utc": "2026-10-31T17:24:51.342645+00:00", "event": "write_attempt", "id": 4, "register": "acceleration", "value": 1}
+{"time_utc": "2026-10-31T17:24:51.342668+00:00", "event": "write_response", "id": 4, "register": "acceleration", "status": 0}
+{"time_utc": "2026-10-31T17:24:51.342685+00:00", "event": "write_attempt", "id": 4, "register": "goal_speed", "value": 50}
+{"time_utc": "2026-10-31T17:24:51.342694+00:00", "event": "write_response", "id": 4, "register": "goal_speed", "status": 0}
+{"time_utc": "2026-10-31T17:24:51.342706+00:00", "event": "write_attempt", "id": 4, "register": "goal_time", "value": 0}
+{"time_utc": "2026-10-31T17:24:51.342713+00:00", "event": "write_response", "id": 4, "register": "goal_time", "status": 0}
+{"time_utc": "2026-10-31T17:24:51.342741+00:00", "event": "first_goal_is_actuation", "id": 4, "start": 2847, "target": 2863}
+{"time_utc": "2026-10-31T17:24:51.342751+00:00", "event": "write_attempt", "id": 4, "register": "goal_position", "value": 2863}
+{"time_utc": "2026-10-31T17:24:51.342759+00:00", "event": "write_response", "id": 4, "register": "goal_position", "status": 0}
+{"time_utc": "2026-10-31T17:24:51.342770+00:00", "event": "sample", "id": 4, "position": 2863, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:24:51.397817+00:00", "event": "sample", "id": 4, "position": 2863, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:24:51.452877+00:00", "event": "sample", "id": 4, "position": 2863, "torque": 1, "status": 0, "temperature": 38, "torque_limit": 50}
+{"time_utc": "2026-10-31T17:24:51.452987+00:00", "event": "result", "reached": true, "id": 4, "start": 2847, "target": 2863, "position": 2863}
+{"time_utc": "2026-10-31T17:24:51.453010+00:00", "event": "write_attempt", "id": 4, "register": "torque_enable", "value": 0}
+{"time_utc": "2026-10-31T17:24:51.453034+00:00", "event": "write_response", "id": 4, "register": "torque_enable", "status": 0}
+{"time_utc": "2026-10-31T17:24:51.453047+00:00", "event": "cleanup", "id": 4, "torque_off_verified": true}
+{"time_utc": "2026-10-31T17:24:51.453079+00:00", "event": "port_closed", "result": {"motor": 4, "start": 2847, "target": 2863, "position": 2863, "reached": true, "torque_off": true}}

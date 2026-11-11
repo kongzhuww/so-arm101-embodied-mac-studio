@@ -1,0 +1,31 @@
+{
+  "schema": "so101-offline-validation-v1",
+  "purpose": "Offline configuration/load/normalization validation ONLY. Never pass to stock robot connection scripts.",
+  "motion_authorized": false,
+  "robot": {
+    "type": "so101_follower",
+    "id": "so101-follower-20261031T144217-014032Z",
+    "port": "/dev/cu.usbserial-130",
+    "calibration_dir": "/Users/kongzhu/so-arm101-act/calibration",
+    "use_degrees": true,
+    "disable_torque_on_disconnect": false,
+    "max_relative_target": 1.0,
+    "cameras": {
+      "external_front": {
+        "type": "opencv",
+        "index_or_path": 0,
+        "width": 640,
+        "height": 480,
+        "fps": 60,
+        "backend": 1200
+      }
+    }
+  },
+  "calibration_sha256": "708f25225132a84be06fb11ea16ebb74df000612e13502edbcfcd21f5dd053ef",
+  "snapshot": "/Users/kongzhu/so-arm101-act/backups/motor-settings-20261031T144630-105221Z.json",
+  "snapshot_sha256": "6285839edafbde0110ce3a6c88a1068abcc48918e55779d43f9b8d4c4c70b828",
+  "proposed_inward_margin_counts": 64,
+  "margin_status": "Planning heuristic only, not mechanically validated or written to motors.",
+  "wrist_roll_policy": "BLOCK powered testing until a separate cable-safe interval is approved; full encoder range is not a mechanical safe range.",
+  "relative_target_warning": "1.0 means degrees for body joints and percent for gripper; not a velocity/current/torque guarantee. Does not make Robot.connect safe."
+}

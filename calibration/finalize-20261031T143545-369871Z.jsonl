@@ -1,0 +1,3 @@
+{"time_utc": "2026-10-31T14:35:45.370094+00:00", "event": "resume_inputs", "candidate": "/Users/kongzhu/so-arm101-act/calibration/recovered-candidate-20261031T143040.json", "backup": "/Users/kongzhu/so-arm101-act/backups/motor-settings-20261031T143229-778682Z.json"}
+{"time_utc": "2026-10-31T14:35:46.604759+00:00", "event": "waiting_resume_save", "writes_armed": false}
+{"time_utc": "2026-10-31T14:36:24.066020+00:00", "event": "resume_cancelled_before_writes"}
