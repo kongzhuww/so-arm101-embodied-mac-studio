@@ -10,9 +10,9 @@ Designed to remove the friction of robotic teleoperation, dataset recording, loc
 
 Watch the SO-ARM101 and Web Studio in action:
 
-[![Watch the robot arm demo](docs/media/robot-arm-demo.jpg)](docs/media/robot-arm-demo.mp4)
+[![Watch the robot arm demo](docs/media/robot-arm-demo.jpg)](https://raw.githubusercontent.com/kongzhuww/so-arm101-embodied-mac-studio/main/docs/media/robot-arm-demo.mp4)
 
-[Watch the demo video](docs/media/robot-arm-demo.mp4) (33 seconds)
+[Watch the demo video](https://raw.githubusercontent.com/kongzhuww/so-arm101-embodied-mac-studio/main/docs/media/robot-arm-demo.mp4) (33 seconds)
 
 ---
 
